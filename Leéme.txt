@@ -1,0 +1,15 @@
+FECHA: 
+CURSO: HTML5 and CSS3
+PROF. MIGUEL PALLIN 
+SESIÓN: 01
+------------------------------------------------------------------------------------------------
+
+. TEMAS:
+	
+	La etiqueta a,
+	Listas: Los objetos ol, ul y li
+	El atributo href
+	El atributo target
+	Insertar Imágenes
+------------------------------------------------------------------------------------------------ 
+

@@ -1,0 +1,41 @@
+/* Estilos generales */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f9f9f934;
+}
+h1{
+    text-align: center;
+}
+
+h1, h2, h3,h4 {
+    color: black;
+}
+h4{
+    font-weight: normal;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+ol, ul {
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
